@@ -1,0 +1,6 @@
+Module 1 Assignment Lab: CSV to JSON Converter
+
+Converts a CSV to a JSON file. Uses the passed on the command line, if present, 
+otherwise tries to convert "customer-data.csv".
+
+Uses csvtojson npm module.
